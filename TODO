@@ -1,0 +1,28 @@
+; -*- org -*-
+
+* Villa Lobos Contour Module
+** GUI
+*** Study wxpython
+*** look at scientific calculators
+*** look at mouse interaction
+** Command line Interface
+** Code improving
+*** object orientation
+*** simplify abstractions
+** Contour operations
+*** Adams
+*** Morris
+*** Marvin
+*** Polansky
+*** Quinn
+*** Beard
+*** Schultz
+* Contour theories
+** Literature review
+*** cognition
+*** Post-tonal theory (ordered intervals)
+** Bug in contour prime form algorithm
+*** find contour analysis
+    - find possible interference Marvin Contour Prime Algorithm bug in
+      contour analysis
+
