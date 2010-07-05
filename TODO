@@ -30,9 +30,15 @@
 ** Contour in folk melodies (Alda Oliveira)
 * Computer
 ** Data mining
-* Meeting
-** Research final aim
-** Next steps
-** Computer Musicology
-** Analysis papers verification
-** Continue programming theory
+* Next steps
+** Review contour analysis
+** Analyze contour in a Beethoven sonata
+** Hypothesis:
+   Computer tools applied to contour analysis allows the researcher to
+   find interesting musical aspects in a compositions large corpus.
+** Thesis structure
+   - Introduction
+   - Literature review (compare theories and probe the state of art)
+   - The software presentation
+   - Discussion about how the software helps to solve the problem
+   - Music analysis with the software
