@@ -2,9 +2,7 @@
 
 * Villa Lobos Contour Module
 ** GUI
-*** Study wxpython
 *** look at scientific calculators
-*** look at mouse interaction
 ** Command line Interface
 ** Code improving
 *** object orientation
@@ -31,15 +29,17 @@
 * Computer
 ** Data mining
 * Next steps
-** Review contour analysis
+** DONE Review contour analysis
+   CLOSED: [2010-10-30 Sat 20:59]
 ** DONE Analyze contour in a Beethoven sonata
    CLOSED: [2010-10-07 Thu 22:40]
 ** Hypothesis:
-   Computer tools applied to contour analysis allows the researcher to
-   find interesting musical aspects in a compositions large corpus.
+   Musical contour relations theories can be affected by the
+   consistency problem in prime form algorithm and Contour segment
+   classes table developed by Marvin and Laprade (1987).
 ** Thesis structure
    - Introduction
    - Literature review (compare theories and probe the state of art)
    - The software presentation
    - Discussion about how the software helps to solve the problem
-   - Music analysis with the software
+   - Possible solutions for the presented problems.
