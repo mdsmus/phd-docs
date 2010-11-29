@@ -1,6 +1,6 @@
 ; -*- org -*-
 
-* Villa Lobos Contour Module
+* MusiContour
 ** GUI
 *** look at scientific calculators
 ** Command line Interface
@@ -23,8 +23,6 @@
       contour analysis
 * Literature review
 ** segmentation
-** cognition
-** Post-tonal theory (ordered intervals)
 ** Contour in folk melodies (Alda Oliveira)
 * Computer
 ** Data mining
@@ -34,7 +32,8 @@
 ** DONE Analyze contour in a Beethoven sonata
    CLOSED: [2010-10-07 Thu 22:40]
 ** Program papers
-** Change program name
+** DONE Change program name
+   CLOSED: [2010-11-11 Mon 07:16]
 ** Look at awarded thesis. How they do?
 ** Hypothesis:
    Musical contour relations theories can be affected by the
